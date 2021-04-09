@@ -1,0 +1,9 @@
+{
+	"version": 3,
+	"file": "stylesheet.css",
+	"sources": [
+		"../../sass/fonts/stylesheet.scss"
+	],
+	"names": [],
+	"mappings": "AAAA,UAAU;EACN,WAAW,EAAE,WAAW;EACxB,GAAG,EAAE,uBAAuB,CAAC,eAAe,EACxC,sBAAsB,CAAC,cAAc;EACzC,WAAW,EAAE,MAAM;EACnB,UAAU,EAAE,MAAM;EAClB,YAAY,EAAE,IAAI"
+}
